@@ -1,4 +1,4 @@
-<h1 align="left">Hola 👋 Como vas?</h1>
+<h1 align="left">Hola 👋 Como vas? </h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Acerca de</h2>
+<h2 align="left">Un Poco sobre Mi. . .</h2>
 
 ###
 
