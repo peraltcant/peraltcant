@@ -11,7 +11,7 @@
 ###
 
 <p align="left">✨ Actualmente trabajo en Aldea Global como FullStack Developer<br>
-  🎮 Amante de los videoJuegos <br>
+  🎮 Me gusta los juegos estilo MOBA / MMO / RPG <br>
   📚 Me gusta estar al tanto y aprender sobre las nuevas técnologias para el desarrollo y creación de Software <br>
 </p>
 
